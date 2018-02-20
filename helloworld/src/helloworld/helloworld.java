@@ -6,7 +6,8 @@ public class helloworld {
 		// TODO Auto-generated method stub
 		System.out.println("hello world github");
 		System.out.println("hello world github");
-
+		//komment tesztelés
+		System.out.println("hello world github");
 	}
 
 }
