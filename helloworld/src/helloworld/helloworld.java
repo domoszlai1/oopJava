@@ -8,6 +8,7 @@ public class helloworld {
 		System.out.println("hello world github");
 		//komment tesztelés
 		System.out.println("hello world github");
+		//újabb kommentet írok be i3wm teszt
 	}
 
 }
